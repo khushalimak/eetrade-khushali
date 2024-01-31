@@ -1,0 +1,5 @@
+.slick-arrow .slick-prev:before {
+    content: "";
+    font-family: 'FontAwesome';
+    font-size: 22px;
+}

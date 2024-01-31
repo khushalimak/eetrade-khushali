@@ -1,0 +1,144 @@
+[
+    {
+      "id": 1,
+      "title": "3D™ wireless headset",
+      "newprice": "$30",
+      "oldprice": "$30",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-01.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$30",
+      "variation1oldp": "$30"
+
+    },
+    {
+      "id": 2,
+      "title": "Media remote",
+      "newprice": "$40",
+      "oldprice": "$50",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-02.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "variation1newp": "$50",
+      "variation1oldp": "$80"
+     },
+    {
+      "id": 3,
+      "title": "HD camera",
+      "newprice": "$45",
+      "oldprice": "$60",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-03.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$45",
+      "variation1oldp": "$60"
+    },
+    {
+      "id": 4,
+      "title": "Guys Bomber Jacket",
+      "newprice": "$70",
+      "oldprice": "$100",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-04.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "variation1newp": "$35",
+      "variation1oldp": "$70"
+    },
+    {
+      "id": 5,
+      "title": "Level 20 RGB Cherry",
+      "newprice": "$38",
+      "oldprice": "$50",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-05.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 6,
+      "title": "Level 20 RGB Cherry",
+      "newprice": "$25",
+      "oldprice": "$40",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-06.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 7,
+      "title": "Logitech Streamcam",
+      "newprice": "$15",
+      "oldprice": "$20",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-07.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 8,
+      "title": "Bass Meets Clarity",
+      "newprice": "$60",
+      "oldprice": "$80",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/electric/product-08.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 9,
+      "title": "Wall Mount",
+      "newprice": "$30",
+      "oldprice": "$30",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/fashion/product-9.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 10,
+      "title": "MX Master",
+      "newprice": "$40",
+      "oldprice": "$50",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/fashion/product-10.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 11,
+      "title": "Zone Headphone",
+      "newprice": "$45",
+      "oldprice": "$60",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/fashion/product-11.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    },
+    {
+      "id": 12,
+      "title": "Mice Logitech",
+      "newprice": "$70",
+      "oldprice": "$100",
+      "image": "https://new.axilthemes.com/demo/template/etrade/assets/images/product/fashion/product-12.png",
+      "Homenewprice" : "$29.99",
+      "Homeoldprice" : "$49.99",
+      "offer" : "20% off",
+      "variation1newp": "$50",
+      "variation1oldp": "$50"
+    }
+  ]
